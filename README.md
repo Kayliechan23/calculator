@@ -1,1 +1,1 @@
-# calculator
+create a basic calculator that manages arithmetic operations with whole and flating points 
